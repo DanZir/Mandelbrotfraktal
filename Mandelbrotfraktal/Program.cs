@@ -45,7 +45,7 @@ namespace Mandelbrotfraktal
 
                     //Erik ist der Beste
                     //Änderung2
-
+                    //Änderung 3
 
 
                     Coord.Real += 0.03;
