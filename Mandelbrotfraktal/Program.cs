@@ -43,7 +43,7 @@ namespace Mandelbrotfraktal
                             break;
                     }
 
-
+                    //Erik ist der Beste
 
 
 
