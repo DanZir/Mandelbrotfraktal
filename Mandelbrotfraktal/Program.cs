@@ -43,6 +43,10 @@ namespace Mandelbrotfraktal
                             break;
                     }
 
+
+
+
+
                     Coord.Real += 0.03;
                     Console.WriteLine();
                     Coord.Imag += 0.05;
